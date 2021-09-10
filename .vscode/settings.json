@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/ajit/.cache/pypoetry/virtualenvs/show-tell-VSRj8xYo-py3.8/bin/python"
+    "python.pythonPath": "/home/ajit/.cache/pypoetry/virtualenvs/show-tell-VSRj8xYo-py3.8/bin/python",
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
 }
