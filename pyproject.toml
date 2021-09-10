@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "show-tell"
+version = "0.1.0"
+description = ""
+authors = ["Ajit Singh"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^3.2.7"
+djangorestframework = "^3.12.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+mypy = "^0.910"
+black = "^21.8b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
